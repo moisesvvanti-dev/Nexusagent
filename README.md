@@ -1,58 +1,69 @@
-# Nexus Agent Premium 🧠🚀
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/250/artificial-intelligence.png" alt="Nexus Logo" width="120" />
 
-**Nexus Agent** é uma Inteligência Artificial local e autônoma, operada diretamente no seu computador. Ele atua como um braço direito digital: um desenvolvedor de software avançado, um analista de segurança cibernética (Pentester) e um assistente administrativo que entende e executa ações reais no seu PC usando apenas instruções de texto ou **comandos de voz**.
+  # ⚡ NEXUS AGENT PREMIUM 
+  
+  **O seu Desenvolvedor, Pentester e Assistente de Automação — 100% Local e Offline**
 
-Toda a inteligência roda **100% offline e local** através do modelo *Ollama*, garantindo privacidade absoluta dos seus dados. Ele não apaga arquivos acidentalmente nem toma ações destrutivas sem instrução prévia, operando com validações rigorosas a cada passo.
-
----
-
-## 🌟 O Que Ele é Capaz de Fazer?
-
-### 1. Codificação e Arquitetura de Software Automática
-- **Desenvolvimento de Aplicações:** Peça para ele "criar um site", "escrever um script python" ou "fazer uma calculadora em C++". O Nexus não apenas te dá o código, **ele cria os arquivos no seu computador, compila e salva**.
-- **Refatoração e Correção de Erros:** Se você tem um projeto com bugs, selecione a pasta do projeto no botão "Abrir Projeto" e diga "Arrume o erro X". Ele lerá todos os códigos, entenderá o contexto e consertará o bug sozinho.
-
-### 2. Ações Nativas no seu Sistema Operacional (Windows)
-- **Manipulação de Arquivos e Pastas:** Ele consegue ler documentos, extrair arquivos ZIP, alterar configurações e organizar pastas para você.
-- **Automação de Terminal:** O agente acessa silenciosamente o PowerShell em background. Ele pode instalar bibliotecas (via `pip` ou `npm`), compilar projetos, listar IPs ou ler processos do sistema, apenas porque você pediu: *"Quais processos estão abertos agora?"*.
-
-### 3. Modo Ofensivo CyberStrike (Hacker / Pentester)
-- **Análise de Segurança de Sites:** O Agente herda as habilidades avançadas do framework *CyberStrikeAI*. Se você disser a palavra mágica *"analisar vulnerabilidades"* ou *"hackear esse site de teste"*, ele altera sua persona para um Pentester Profissional.
-- **Armas e Testes Ativos:** Ele carrega da memória dezenas de estratégias (SQL Injection, XSS, Path Traversal) para fazer varreduras profundas na internet e checar portas abertas do seu site de desenvolvimento ou APIs locais.
-
-### 4. Inteligência Reflexiva e Auto-Aprendizado
-- **Consciência do Trabalho (Validação):** Diferente de bots simples (como ChatGPT ou Claude) que te entregam um texto e não se importam se funcionou, o Nexus Agent possui uma **"Diretriz Crítica de Validação"**. Se ele alterar um código seu, ele rodará uma ferramenta própria para *ler o arquivo e checar se a alteração foi realmente feita no disco*. Se falhou, ele refaz o processo automaticamente antes de te dar a resposta final.
-- **Auto-Melhoria Contínua:** Se ele cometer um erro grave e descobrir a solução com seu auxílio, ele acessa o próprio código (Skill_AutoMelhoria_Nexus) e escreve um "lembrete de aprendizado" persistente. Ele nunca cometerá o mesmo erro complexo duas vezes.
+  <p align="center">
+    <a href="#-o-que-ele-pode-fazer"><img src="https://img.shields.io/badge/Capabilities-4-blueviolet?style=for-the-badge&logo=rocket" alt="Capabilities"/></a>
+    <a href="#-como-operar"><img src="https://img.shields.io/badge/Interface-Voice_&_Text-FF5722?style=for-the-badge&logo=mic" alt="Interface"/></a>
+    <a href="#-segurança-e-privacidade"><img src="https://img.shields.io/badge/Privacy-100%25_Offline-success?style=for-the-badge&logo=shield" alt="Privacy"/></a>
+  </p>
+  
+  <p align="center">
+    <i>Não apenas um chatbot. Um agente físico virtual que codifica, compila, lê arquivos e hackeia sistemas diretamente do seu disco rígido com máxima segurança.</i>
+  </p>
+</div>
 
 ---
 
-## 🎙️ Como Operar o Agente (Passo a Passo)
+## 🌟 O Que Ele Pode Fazer?
 
-### Método 1: Operação por Texto (Prompts)
-1. Inicie o Nexus clicando no atalho ou rodando `python nexus.py`.
-2. A interface Premium com Modo Dark/Light se abrirá.
-3. No campo inferior, escreva o que você quer que ele faça. Exemplo:
-   * *"Crie uma pasta chamada Teste_Site na minha Área de Trabalho e coloque um index.html elegante e moderno lá."*
-4. O *Status* dele mudará para **🧠 Pensando / Raciocinando...** (quando estiver raciocinando) e **⚙️ Trabalhando...** (quando estiver efetivamente usando o teclado virtual e criando os arquivos).
-5. Ao terminar, ele sintetizará a resposta falada dizendo que concluiu.
-
-### Método 2: Operação Hands-Free (Comando de Voz)
-1. Clique no botão azul **"🎤 Voz"** ao lado da barra de texto.
-2. O sistema avisará: *🎤 Ouvindo... Fale agora!*.
-3. Diga no microfone claramente o seu pedido. Por exemplo: *"Analise o projeto que acabei de abrir e me explique como ele funciona."*
-4. O áudio será processado pelo motor de *SpeechRecognition* (STT), transformado em texto na caixinha, e enviado de imediato ao cérebro do Agente.
-5. Quando o trabalho estiver feito, ele responderá em alto e bom som através dos alto-falantes nativos do seu Windows usando o TTS offline.
-
-### Método 3: Manuseio de Projetos Zipados (Extração e Isolamento)
-1. Clique em **"📁 Abrir Projeto / ZIP"** no menu lateral esquerdo.
-2. Selecione o arquivo `.zip` que você baixou do GitHub ou pasta local.
-3. O Nexus Agent extrairá silenciosamente todo o projeto para a pasta secreta `%APPDATA%/NexusCore/Workspaces` e ancorará sua atenção **apenas** lá dentro.
-4. Qualquer prompt que você enviar agora só terá efeito naquela bolha de desenvolvimento, garantindo que o seu sistema base nunca seja afetado!
+| 🛠️ Funcionalidade | Descrição do Poder |
+| :--- | :--- |
+| **👩‍💻 Codificação e Arquitetura** | Peça *"crie um site"*, *"escreva um script python"*, ou *"arrume o erro x"*. O Nexus **escreve arquivos reais**, compila e salva no seu PC automaticamente, atuando como um Engenheiro de Software Sênior. |
+| **⚙️ Manipulação do Sistema (OS)** | Extrai projetos ZIP, varre pastas e gerencia o ambiente. Tem o poder de executar comandos silenciosos no *PowerShell* (ex: `pip install`, checar IPs, ler processos). |
+| **💀 Arsenal CyberStrike (Pentester)** | Herdando a inteligência tática do framework *CyberStrikeAI*, se você solicitar *"hackear site"* ou *"analisar vulnerabilidades"*, ele destrava uma subrotina ofensiva com dezenas de skills reais (SQL Injection, XSS, etc). |
+| **🧠 Inteligência Reflexiva** | Ele não inventa que fez algo. Se ele modificar um arquivo, ele **lê o arquivo novamente para checar** se a modificação gravou. Se falhar, ele refaz o código antes de avisar você. |
+| **📓 Auto-Aperfeiçoamento** | Ao invés de cometer o mesmo erro bobo duas vezes, ele usa a `Skill_AutoMelhoria` para escrever diários dos próprios erros de execução, aprendendo continuamente com você. |
 
 ---
 
-## 🛡️ Segurança e Integridade Garantida
+## 🎙️ Como Operar (Interface Dupla)
 
-* **Não é Destrutivo:** O System Prompt principal foca em construção, leitura e automação assistiva. Ele não deletará diretórios vitais ou arquivos pessoais, a menos que você explicitamente o obrigue a isso.
-* **Isolamento de Erros de CPU:** O agente possui um limite rígido de 15 *loops iterativos*. Se ele for instruído a resolver um problema insolúvel ou não conseguir criar um código após tentar muito, ele interromperá a ação automaticamente antes de esgotar ou travar o processador do seu computador.
-* **Comunicação 100% Offline:** Todo o raciocínio via motor *Ollama* ou conversões de voz ocorrem dentro dos limites do seu HD/SSD. Nenhum trecho do seu código-fonte proprietário é enviado para servidores externos.
+O Nexus possui uma interface rica construída em **PyQt6**, projetada para ser ágil e direta. 
+
+### 1️⃣ Método Hands-Free (Controle por Voz)
+Quer se sentir como o Homem de Ferro conversando com o JARVIS?
+* Clique no elegante botão azul **`🎤 Voz`**.
+* Fale o comando naturalmente: *"Nexus, analise a pasta e crie um script de backup em Python."*
+* O sistema transcreve instantaneamente o seu áudio, executa o comando e **lê a resposta em voz alta** usando síntese vocal (TTS) nativa do Windows.
+
+### 2️⃣ Método Desenvolvedor (Prompts de Texto)
+* Digite a instrução na barra de comandos principal.
+* Acompanhe os **Status em Tempo Real**:
+  * `🧠 Pensando / Raciocinando...` (Ele está montando o plano lógico).
+  * `⚙️ Trabalhando / Projetando...` (Ele está utilizando o teclado e as mãos virtuais).
+* **Workspaces Isolados:** Clique no botão `📁 Abrir Projeto / ZIP` no menu lateral para selecionar uma pasta (ou um ZIP que ele extrairá sozinho). O Nexus ancorará toda a operação **apenas dentro daquela pasta**, isolando perfeitamente o ambiente.
+
+---
+
+## 🛡️ Segurança e Privacidade 
+
+> [!IMPORTANT]  
+> **100% Offline (Zero Nuvem)**  
+> Diferente de assistentes comerciais, **nenhum byte do seu código-fonte ou voz é enviado para a internet**. O motor LLM do *Ollama* e o sistema *SpeechRecognition* rodam localmente. Sua propriedade intelectual nunca sai do seu SSD.
+
+> [!WARNING]  
+> **Sistema Blindado Contra Acidentes**  
+> O agente foi bloqueado sistematicamente de realizar exclusões não-autorizadas (rm -rf, delete). Ele foca em leitura, construção e correção.  
+
+> [!TIP]  
+> **Kill-Switch Térmico**  
+> O agente tem um teto máximo de 15 *loops iterativos* autônomos. Se ele não conseguir consertar um problema de jeito nenhum, ele interrompe a ação para não derreter o processador com loops infinitos. E se você quiser parar de imediato, basta fechar a janela: **um comando oculto mata instantaneamente todas as threads da I.A.**, sem deixar processos zumbis de fundo.
+
+---
+<div align="center">
+  <i>Construído com tecnologia PyQt6, Python e Motor Autônomo Hermes. Desenvolvido para transformar qualquer Desktop numa central de I.A. 🚀</i>
+</div>
