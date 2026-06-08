@@ -4,13 +4,14 @@
   <h3><i>Powered by Hermes Engine</i></h3>
 
   <p>
+    <a href="#"><img src="https://img.shields.io/badge/Licença-Proprietária_Fechada-red?style=for-the-badge&logo=lock" alt="Closed Source"></a>
     <a href="#"><img src="https://img.shields.io/badge/Status-100%25%20Offline-success?style=for-the-badge&logo=shield" alt="Offline"></a>
     <a href="#"><img src="https://img.shields.io/badge/Engine-Hermes%20Quantum-purple?style=for-the-badge&logo=python" alt="Hermes Engine"></a>
     <a href="#"><img src="https://img.shields.io/badge/UI-PyQt6%20Advanced-informational?style=for-the-badge&logo=qt" alt="UI PyQt6"></a>
     <a href="#"><img src="https://img.shields.io/badge/Segurança-Extrema-black?style=for-the-badge&logo=security" alt="Sec"></a>
   </p>
 
-  <p><b>Desenvolvido e Arquitetado por Moisés V Vanti</b></p>
+  <p><b>Desenvolvido e Arquitetado Exclusivamente por Moisés V Vanti</b></p>
 </div>
 
 <br>
@@ -69,15 +70,15 @@ graph TD;
 
 ---
 
-## 💻 Como Instalar, Compilar e Rodar
+## 💻 Guia de Instalação Rápida
 
-1. **Geração do Executável Blindado**:
-   - Dê dois cliques em `build_nexus.bat`.
-   - O PyInstaller injetará dezenas de milhares de linhas de bibliotecas de voz, IA, UI e terminal num único arquivo binário compacto e pesado, sem janelas pretas incomodando (`--windowed` & `--onefile`).
+1. **Baixe o Software**:
+   - Obtenha o executável oficial blindado **`NexusAgente.exe`** disponibilizado pelo desenvolvedor.
 2. **O Setup Inception**:
-   - Com o arquivo `.exe` gerado em mãos, dê dois cliques. A tela inicial de *Setup* se abrirá.
-   - Pressione **"⚙️ Instalar na Área de Trabalho"**. O sistema clonará a si próprio nativamente e salvará metadados de instalação em `%APPDATA%`.
+   - Dê dois cliques no `.exe`. A tela inicial de *Setup* se abrirá automaticamente.
+   - Pressione **"⚙️ Instalar na Área de Trabalho"**. O sistema clonará a si próprio de forma nativa e segura para dentro do seu sistema e criará o atalho oficial de lançamento na sua Área de Trabalho.
 3. **Produção**:
+   - Use o atalho **Nexus Agent** na Área de Trabalho para abrir o Launcher.
    - Clique em **🚀 Launch Nexus Agent**.
    - Defina sua Área de Trabalho (o laboratório dele).
    - Inicie o desenvolvimento quântico.
