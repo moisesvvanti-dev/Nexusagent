@@ -1,93 +1,75 @@
-<div align="center">
-  <img src="nexus_logo.png" width="150" alt="Nexus Agent Logo" />
-  <h1>NEXUS AGENT PREMIUM</h1>
-  <h3><i>Powered by Hermes Engine</i></h3>
+<div align="center" style="background-color: #040714; padding: 50px; border-radius: 15px; color: #f9f9f9; font-family: 'Avenir', sans-serif;">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" width="200" alt="Disney+ Theme" style="margin-bottom: 20px;" />
+  <h1 style="font-size: 3em; margin: 0; background: -webkit-linear-gradient(#fff, #999); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">NEXUS AGENT PREMIUM</h1>
+  <h3 style="color: #0072D2; letter-spacing: 2px; text-transform: uppercase;">A Nova Era da Computação Autônoma</h3>
 
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Licença-Proprietária_Fechada-red?style=for-the-badge&logo=lock" alt="Closed Source"></a>
+  <p style="margin-top: 25px;">
     <a href="#"><img src="https://img.shields.io/badge/Status-100%25%20Offline-success?style=for-the-badge&logo=shield" alt="Offline"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Engine-Hermes%20Quantum-purple?style=for-the-badge&logo=python" alt="Hermes Engine"></a>
-    <a href="#"><img src="https://img.shields.io/badge/UI-PyQt6%20Advanced-informational?style=for-the-badge&logo=qt" alt="UI PyQt6"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Segurança-Extrema-black?style=for-the-badge&logo=security" alt="Sec"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Engine-Hermes%20Quantum%20V1.6-purple?style=for-the-badge&logo=python" alt="Hermes Engine"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Distribuição-EXE%20Standalone-informational?style=for-the-badge&logo=windows" alt="EXE Standalone"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Segurança-Militar-black?style=for-the-badge&logo=security" alt="Sec"></a>
   </p>
 
-  <p><b>Desenvolvido e Arquitetado Exclusivamente por Moisés V Vanti</b></p>
+  <p style="font-size: 1.2em; color: #8C9CA7;"><b>Original do Universo: Moisés V Vanti</b></p>
 </div>
 
 <br>
 
----
-
-## 🌌 Visão Geral
-
-O **Nexus Agent** é uma Inteligência Artificial local de altíssimo nível, desenhada para atuar como um Arquiteto de Software Sênior e Operador de Sistemas autônomo. Rodando 100% offline em sua própria máquina (integrado ao motor do Ollama), o Nexus é blindado contra vazamentos de dados, oferecendo a você um assistente capaz não apenas de responder a perguntas, mas de assumir o controle total do ecossistema de arquivos do seu PC para projetar, codificar, auditar e implementar sistemas gigantescos de ponta a ponta sem interrupções.
-
-O projeto embute o inigualável **Motor Hermes**, permitindo processamento lógico sequencial profundo com até 100 ciclos autônomos.
-
----
-
-## ⚡ Capacidades de Extremo Avanço
-
-O Nexus Agent **não é um chatbot.** É um Engenheiro Digital Autônomo com reflexo cognitivo. Eis do que ele é capaz:
-
-- 🏗️ **Construção Integral e Implacável:** Peça *"crie um aplicativo web de finanças"* e o Nexus não te dará um esqueleto inútil. Ele assumirá o terminal, criará os diretórios, construirá o Frontend, codificará o Backend, injetará as lógicas de roteamento e os estilos, parando **apenas** quando todo o sistema estiver funcional e pronto para uso.
-- 🎙️ **Comando por Voz Multithread (STT/TTS):** Abandone o teclado se quiser. Fale com o Nexus via microfone; o sistema usa reconhecimento de fala avançado (`speech_recognition`) para transcrever seu áudio e processa respostas audíveis via sistema `pyttsx3`, com fluxos multithreads que não congelam sua tela.
-- 🧠 **Auto-Aperfeiçoamento Constante:** Equipado com diretrizes de aprimoramento nativo (`skill_manage`), o Nexus aprende com os próprios erros. Sempre que você o corrigir, ele gravará uma *Skill de Reflexão* permanentemente na própria base de dados do cérebro. O agente de hoje será menos inteligente que o de amanhã.
-- 🛡️ **Modo CyberStrike Ofensivo:** Conta com uma suíte de conhecimentos hacker acoplada. Se instruído a caçar vulnerabilidades de redes, buscar brechas em sistemas web (XSS, SQL Injection) ou realizar Pentests locais, ele acessará seu arsenal e executará testes rigorosos.
-- 🚀 **Instalador Launcher Inception:** O executável se instala sozinho. Ao ser rodado pela primeira vez, ele abre uma interface Premium Setup que copia si mesmo silenciosamente para o Desktop e levanta as configurações locais, transformando-se num Launcher definitivo na segunda vez.
-- 📑 **Histórico Moderno e Fixo:** Gerencie suas conversas com menus suspensos avançados (os famosos "Três Pontinhos"). Renomeie, fixe `📌` seus papos mais importantes no topo, ou delete conversas para sempre do seu SSD em um clique.
-
----
-
-## 🔒 Segurança Lógica: O Nexus pode deletar ou destruir meu PC?
-
-A arquitetura de segurança do Nexus foi desenhada com diretrizes paranoicas.
-
-> [!CAUTION]
-> **Devo ter medo dele agir sem minha permissão ou apagar meu HD?**  
-> **NÃO.** O Nexus opera sob restrições lógicas rigorosas.
-
-1. **Isolamento de Área de Trabalho (Workspace):** O Agente é instruído e restringido à pasta do projeto que você definir. Ele atua como um trator *dentro daquele cercado*. 
-2. **Validação Matemática Silenciosa:** Antes de lhe dizer que alterou um arquivo ou apagou um bug, o Nexus é obrigado pelo `sys_prompt` a realizar um ciclo de Engenharia Reserva: `write_file` -> `read_file` -> `diff check`. Ele lê novamente o arquivo no HD para confirmar com matemática computacional que o código está íntegro antes mesmo de te dar uma resposta no chat.
-3. **Privacidade Absoluta:** O peso do raciocínio (Inferência LLM) ocorre na sua placa de vídeo ou processador local. Nenhum byte do seu projeto é enviado a servidores na nuvem. Você tem posse soberana e criptográfica da inteligência do robô.
-
----
-
-## 🛠️ Arquitetura do Sistema e Fluxo Nervoso
-
-```mermaid
-graph TD;
-    A[Usuário Moisés V Vanti] -->|Texto ou Voz / Mic| B(Nexus PyQt6 Premium UI)
-    B -->|Thread Isolada Protegida| C(HermesWorker Engine)
-    C <-->|Auto-Melhoria| H[Skills & Memórias Permanentes]
-    C -->|Diretrizes Quânticas| D[Local Ollama Llama Models]
-    D -->|Tool Use Autônomo| E{Ferramentas Nativas}
-    E -->|Write/Read File| F[Disco Local SSD]
-    E -->|Subprocess Exec| G[Terminal / PowerShell]
-    E -->|Web Scrape| I[Internet]
-    C -->|UI Delta Updates| B
-```
-
----
-
-## 💻 Guia de Instalação Rápida
-
-1. **Baixe o Software**:
-   - Obtenha o executável oficial blindado **`NexusAgente.exe`** disponibilizado pelo desenvolvedor.
-2. **O Setup Inception**:
-   - Dê dois cliques no `.exe`. A tela inicial de *Setup* se abrirá automaticamente.
-   - Pressione **"⚙️ Instalar na Área de Trabalho"**. O sistema clonará a si próprio de forma nativa e segura para dentro do seu sistema e criará o atalho oficial de lançamento na sua Área de Trabalho.
-3. **Produção**:
-   - Use o atalho **Nexus Agent** na Área de Trabalho para abrir o Launcher.
-   - Clique em **🚀 Launch Nexus Agent**.
-   - Defina sua Área de Trabalho (o laboratório dele).
-   - Inicie o desenvolvimento quântico.
-
----
+<div style="background-color: #1A1D29; padding: 30px; border-radius: 10px; color: white; box-shadow: 0 10px 20px rgba(0,0,0,0.5);">
+  <h2 style="color: #F9F9F9; border-bottom: 2px solid #0072D2; padding-bottom: 10px;">🌌 Inteligência Distribuída. Controle Absoluto.</h2>
+  <p style="line-height: 1.8; color: #CACACA; font-size: 1.1em;">
+    O <strong>Nexus Agent Premium</strong> é um software proprietário de altíssimo nível, desenhado para prover Arquitetura de Software Sênior e Operações Cibernéticas em um ecossistema 100% offline. Encapsulado em um único executável de nível empresarial, o Nexus não requer internet, não compartilha dados em nuvem e roda integralmente através de inferência neural local.
+  </p>
+  <p style="line-height: 1.8; color: #CACACA; font-size: 1.1em;">
+    Impulsionado pelo <strong>Hermes Cognitive Engine</strong>, o sistema transcende o conceito de assistentes virtuais comuns. Ele atua como um trator de engenharia reversa e desenvolvimento, capaz de executar <strong>até 100 ciclos de raciocínio lógico profundo autônomo</strong> para completar tarefas titânicas sem nenhuma intervenção humana.
+  </p>
+</div>
 
 <br>
 
-<div align="center">
-  <p><i>"O limite do desenvolvimento é apenas o limite da sua comunicação com a máquina."</i></p>
-  <b>— Moisés V Vanti</b>
+<h2 style="color: #2F343A; text-align: center;">⚡ ORIGINAIS NEXUS: CAPACIDADES</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  
+  <div style="background: linear-gradient(135deg, #090B13, #1A1D29); border: 1px solid #3A3E4A; border-radius: 10px; padding: 20px; width: 45%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #0072D2;">🏗️ Construção Quântica</h3>
+    <p style="color: #A3A3A3; line-height: 1.5;">Peça o impossível. Se instruído a criar um ecossistema, o Nexus assumirá processos de background, criará a estrutura de pastas, codificará o frontend e estilizará tudo. Interrompe <i>apenas</i> quando o software estiver em estado de produção.</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #090B13, #1A1D29); border: 1px solid #3A3E4A; border-radius: 10px; padding: 20px; width: 45%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #0072D2;">🎙️ Síntese Vocal Multithread</h3>
+    <p style="color: #A3A3A3; line-height: 1.5;">A interface abandona o teclado. Interaja via biometria vocal; o sistema decodifica sua fala e responde audivelmente através de fluxos multithreads nativos do Windows, garantindo latência zero.</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #090B13, #1A1D29); border: 1px solid #3A3E4A; border-radius: 10px; padding: 20px; width: 45%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #0072D2;">🛡️ CyberStrike Arsenal</h3>
+    <p style="color: #A3A3A3; line-height: 1.5;">Ative o Modo CyberStrike para vasculhar diretórios, ler código-fonte cru e estruturar caçadas implacáveis por injeções de SQL e vulnerabilidades, blindando seu sistema como um Analista de Segurança Sênior.</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #090B13, #1A1D29); border: 1px solid #3A3E4A; border-radius: 10px; padding: 20px; width: 45%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #0072D2;">🧠 Auto-Aperfeiçoamento</h3>
+    <p style="color: #A3A3A3; line-height: 1.5;">O Nexus monitora seus próprios erros de lógica. Quando corrigido, executa uma neuro-escrita na sua base de dados. O conhecimento adquirido hoje é carregado para o núcleo e nunca mais esquecido.</p>
+  </div>
+
+</div>
+
+<br>
+
+<div style="background-color: #040714; padding: 30px; border-radius: 10px; border-left: 5px solid #0072D2;">
+  <h2 style="color: #F9F9F9; margin-top: 0;">🔒 Arquitetura de Segurança Paranoica</h2>
+  <p style="color: #CACACA;">O Nexus opera sob um rigoroso contrato de segurança militar interna:</p>
+  
+  <ul style="color: #8C9CA7; line-height: 1.8;">
+    <li><strong style="color: white;">Sandboxing Lógico:</strong> O Agente é limitado ao diretório alvo selecionado na interface.</li>
+    <li><strong style="color: white;">Validação Matemática:</strong> Antes de confirmar criação ou edição, o núcleo obriga o agente a ler os arquivos. Se a lógica não bater bit-a-bit, ele refaz silenciosamente.</li>
+    <li><strong style="color: white;">Ghost Mode:</strong> Privacidade soberana. Seus dados e segredos nunca tocam um cabo de rede externo.</li>
+  </ul>
+</div>
+
+<br>
+
+<div align="center" style="margin-top: 40px; padding: 20px; border-top: 1px solid #333;">
+  <p style="color: #8C9CA7; font-style: italic;">"A verdadeira autonomia artificial não pede permissão para criar; ela arquitetura soluções e entrega certezas."</p>
+  <b style="color: #0072D2; letter-spacing: 1px;">— MOISÉS V VANTI</b>
 </div>
