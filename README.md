@@ -1,6 +1,4 @@
 <div align="center" style="background-color: #040714; padding: 50px; border-radius: 15px; color: #f9f9f9; font-family: 'Avenir', sans-serif;">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" width="200" alt="Disney+ Theme" style="margin-bottom: 20px;" />
   <h1 style="font-size: 3em; margin: 0; background: -webkit-linear-gradient(#fff, #999); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">NEXUS AGENT PREMIUM</h1>
   <h3 style="color: #0072D2; letter-spacing: 2px; text-transform: uppercase;">A Nova Era da Computação Autônoma</h3>
 
